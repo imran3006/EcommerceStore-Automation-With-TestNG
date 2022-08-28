@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestRunner.LoginTestRunner" tests="10" skipped="0" failures="0" errors="0" timestamp="2022-08-28T06:52:35" hostname="DESKTOP-DGU9JC8" time="72.521">
+  <properties/>
+  <testcase name="doLoginWithInvalidPass" classname="TestRunner.LoginTestRunner" time="27.274"/>
+  <testcase name="doLoginWithInvalidEmail" classname="TestRunner.LoginTestRunner" time="8.365"/>
+  <testcase name="doLoginWithInvalidCreds" classname="TestRunner.LoginTestRunner" time="3.89"/>
+  <testcase name="doLoginWithBlankEmail" classname="TestRunner.LoginTestRunner" time="4.98"/>
+  <testcase name="doLoginWithBlankPass" classname="TestRunner.LoginTestRunner" time="4.07"/>
+  <testcase name="doLoginWithBlankCreds" classname="TestRunner.LoginTestRunner" time="5.966"/>
+  <testcase name="visibleForgetPass" classname="TestRunner.LoginTestRunner" time="0.075"/>
+  <testcase name="retrivePassVisible" classname="TestRunner.LoginTestRunner" time="1.958"/>
+  <testcase name="retrievePass" classname="TestRunner.LoginTestRunner" time="3.783"/>
+  <testcase name="doLoginWithValidCreds" classname="TestRunner.LoginTestRunner" time="12.101"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

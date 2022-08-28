@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestRunner.CheckOutTestRunner" tests="13" skipped="0" failures="0" errors="0" timestamp="2022-08-28T06:54:17" hostname="DESKTOP-DGU9JC8" time="95.448">
+  <properties/>
+  <testcase name="proceedToCheckOutButton" classname="TestRunner.CheckOutTestRunner" time="19.013"/>
+  <testcase name="signInPrompted" classname="TestRunner.CheckOutTestRunner" time="7.078"/>
+  <testcase name="AddressCheckoutPage" classname="TestRunner.CheckOutTestRunner" time="23.411"/>
+  <testcase name="addressupdateButton" classname="TestRunner.CheckOutTestRunner" time="0.059"/>
+  <testcase name="updateButtonClicked" classname="TestRunner.CheckOutTestRunner" time="3.996"/>
+  <testcase name="addressUpdated" classname="TestRunner.CheckOutTestRunner" time="7.005"/>
+  <testcase name="shippingPage" classname="TestRunner.CheckOutTestRunner" time="7.027"/>
+  <testcase name="termsOfServiceUnchecked" classname="TestRunner.CheckOutTestRunner" time="2.17"/>
+  <testcase name="paymentPage" classname="TestRunner.CheckOutTestRunner" time="6.52"/>
+  <testcase name="paymentOptions" classname="TestRunner.CheckOutTestRunner" time="0.067"/>
+  <testcase name="confirmOrderButtonCheck" classname="TestRunner.CheckOutTestRunner" time="5.019"/>
+  <testcase name="confirmOrder" classname="TestRunner.CheckOutTestRunner" time="8.149"/>
+  <testcase name="orderHistory" classname="TestRunner.CheckOutTestRunner" time="5.875"/>
+  <system-out><![CDATA[Address SubHeading: YOUR ADDRESSES
+Updated Address: nasirabad,chittagong
+PageHeading: SHIPPING
+Terms :Terms of service
+Order hst: ORDER HISTORY
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
